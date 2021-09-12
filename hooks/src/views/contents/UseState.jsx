@@ -1,4 +1,3 @@
-  
 import './UseState.css'
 import React, {useState, useContext} from "react"
 
